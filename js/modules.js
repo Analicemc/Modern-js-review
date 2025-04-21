@@ -1,7 +1,7 @@
 "use strict";
 
 import { users, currentUser } from "./users.js";
-import helper from "./helper.js";
+import helper from "../helper.js";
 
 // document.getElementById('output').innerHTML = users[currentUser].name;
 
